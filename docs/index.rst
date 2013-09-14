@@ -22,6 +22,9 @@ An n-gram of size 1 is referred to as a "unigram"; size 2 is a
 "bigram" (or, less commonly, a "digram"); size 3 is a "trigram"; and
 size 4 or more is simply called an "n-gram".
 
+API reference
+-------------
+
 .. automodule:: indicngram.core
    :members:
 
